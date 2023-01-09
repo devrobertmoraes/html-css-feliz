@@ -76,20 +76,3 @@ a::before {
     height: 185px;
     box-shadow: 10px 10px 0px #09090A;
 }
-
-<<<<<<< HEAD
-=======
-#subtitulo {
-    font-family: "Press Start 2P", cursive;
-    font-size: 30px;
-    color: #FFFFFF;
-    text-shadow: 4px 4px 0px #09090A;
-    letter-spacing: 2px;
-}
-
->>>>>>> origin/main
-.info-botoes {
-    display: flex;
-    gap: 110px;
-    margin: 40px;
-}
