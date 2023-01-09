@@ -1,0 +1,48 @@
+.skill-tec {
+    display: flex;
+    font-family: "Press Start 2P", cursive;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-shadow: 3px 3px 0px #09090a;
+}
+
+.skill-tec .icon {
+    margin-right: 25px;
+    width: 90px;
+    height: 90px;
+}
+
+.skill-tec .right {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* .skill .subtitle {
+    font-size: 25px;
+}
+
+.skill {
+    display: flex;
+    gap: 25px;
+}
+
+.skill-info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.skill .skill-icon {
+    width: 90px;
+    height: 90px;
+}
+
+.skill .progress {
+    background-color: white;
+    width: 310px;
+    height: 30px;
+    border: 5px solid #000000;
+    box-shadow: inset 210px 0px 0px #88d498;
+} */
