@@ -1,12 +1,12 @@
-.title {
+.main-title {
     font-family: "Press Start 2P", cursive;
     font-size: 40px;
     color: #88D498;
     text-shadow: 4px 4px 0px #09090A;
 }   
 
-.title.-second {
+.main-title.-second {
     font-size: 45px;
     color: #09090A;
     text-shadow: 4px 4px 0px #88D498;
-}
+} 
