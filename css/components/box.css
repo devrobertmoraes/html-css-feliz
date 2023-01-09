@@ -1,6 +1,11 @@
 #box {
+    display: inline-block;
     background-color: #8257e6;
-    width: 630px;
-    height: 185px;
     box-shadow: 10px 10px 0px #09090A;
+    text-align: center;
+    padding: 42px 44px;
+}
+
+#box h1 {
+    margin-bottom: 28px;
 }
