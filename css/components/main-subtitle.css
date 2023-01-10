@@ -1,11 +1,11 @@
-.subtitle {
+.main-subtitle {
     font-family: "Press Start 2P", cursive;
     font-size: 30px;
     color: #FFFFFF;
     text-shadow: 4px 4px 0px #09090A; 
 }   
 
-.subtitle.-second {
+.main-subtitle.-second {
     color: #09090A; 
     text-shadow: 4px 4px 0px #FFFFFF;
 }
