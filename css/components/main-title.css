@@ -4,9 +4,21 @@
     color: #88D498;
     text-shadow: 4px 4px 0px #000000;
 }   
-
+ 
 .main-title.-second {
     font-size: 45px;
     color: #09090A;
     text-shadow: 4px 4px 0px #88D498;
+} 
+
+.main-title.-purple {
+    font-size: 45px;
+    color: #8257e6;
+    text-shadow: 4px 4px 0px #000000;
+} 
+
+.main-title.-project {
+    font-size: 45px;
+    color: #88D498;
+    text-shadow: 4px 4px 0px #FFFFFF;
 } 
