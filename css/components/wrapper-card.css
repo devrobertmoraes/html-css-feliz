@@ -1,0 +1,5 @@
+.wrapper-card {
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
