@@ -1,4 +1,6 @@
 .main-carousel {
+    display: flex;
+    justify-content: space-between;
     position: relative;
     padding-left: 100px;
     padding-right: 100px;
